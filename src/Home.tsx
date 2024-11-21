@@ -1,8 +1,13 @@
+import User from "./User";
+
 
 
 const Home = () => {
     return (
         <div>
+
+            <User ></User>
+            
             
         </div>
     );
