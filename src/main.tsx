@@ -10,6 +10,7 @@ import {
 } from "react-router-dom";
 import Home from './Home';
 import Root from './Root';
+import Searching from './Home file/Searching';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -18,6 +19,11 @@ const router = createBrowserRouter([
       {
         path: "/",
         element:  <Home></Home>  ,
+      },
+      {
+        path: "/search",
+        element:   <Searching></Searching> ,
+        loader: () => fetch('https://raw.githubusercontent.com/minhazapon/Fitness-Network--react.js--project/refs/heads/main/public/Protein.json')
       },
     ],
   },
