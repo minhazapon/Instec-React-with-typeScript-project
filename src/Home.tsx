@@ -1,14 +1,17 @@
-import User from "./User";
-
+import HomeBanner from "./Home file/HomeBanner";
+import Provide from "./Home file/Provide";
 
 
 const Home = () => {
+
+
     return (
+
         <div>
 
-            <User ></User>
-            
-            
+              <HomeBanner></HomeBanner>
+              <Provide></Provide>
+
         </div>
     );
 };

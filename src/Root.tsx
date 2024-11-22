@@ -1,12 +1,18 @@
-import Home from "./Home";
+import { Outlet } from "react-router-dom";
+import Nav from "./Nav";
+import Footer from "./Footer";
+
 
 
 
 const Root = () => {
     return (
         <div>
-
-            <Home></Home>
+             
+              <Nav></Nav>
+              <Outlet></Outlet>
+              <Footer></Footer>
+            
             
         </div>
     );
