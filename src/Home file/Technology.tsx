@@ -26,14 +26,14 @@ const Technology = () => {
 
 
                 <div>
-                <div className=" flex justify-center bg-white">
+                <div className=" flex justify-center bg-white hover:bg-yellow-500">
                 <div className=" border-[1px] h-[200px] w-[250px] p-5 ">
                 <p className=" text-center text-2xl font-semibold universe ">UI/UX<br></br> DESIGNING</p>
                 <p className=" mt-3 text-center text-gray-400">Providing The solution For<br></br> None/It business</p>
                 </div>
                 </div>
                 <div className=" flex justify-center -mt-9">
-                <div className=" bg-yellow-500 rounded-full p-6 ">
+                <div className=" bg-yellow-500 hover:bg-white rounded-full p-6 ">
                 <img className=" h-[70px] w-[70px] " src="https://cdn-icons-png.flaticon.com/128/7889/7889802.png" alt="" />
                 </div>
                 </div>
@@ -41,14 +41,14 @@ const Technology = () => {
 
 
                 <div>
-                <div className=" flex justify-center bg-white">
+                <div className=" flex justify-center bg-white hover:bg-yellow-500">
                 <div className=" border-[1px] h-[200px] w-[250px] p-5 ">
                 <p className=" text-center text-2xl font-semibold universe ">DATA<br></br> ANALYSIS</p>
                 <p className=" mt-3 text-center text-gray-400">Providing The solution For<br></br> None/It business</p>
                 </div>
                 </div>
                 <div className=" flex justify-center -mt-9">
-                <div className=" bg-yellow-500 rounded-full p-6 ">
+                <div className=" bg-yellow-500 rounded-full p-6 hover:bg-white ">
                 <img className=" h-[70px] w-[70px] " src="https://cdn-icons-png.flaticon.com/128/11083/11083341.png" alt="" />
                 </div>
                 </div>
@@ -56,42 +56,42 @@ const Technology = () => {
 
 
                 <div>
-                <div className=" flex justify-center bg-white">
+                <div className=" flex justify-center bg-white hover:bg-yellow-500">
                 <div className=" border-[1px] h-[200px] w-[250px] p-5 ">
                 <p className=" text-center text-2xl font-semibold universe ">PRODUCT DEVELOPMENT</p>
                 <p className=" mt-3 text-center text-gray-400">Providing The solution For<br></br> None/It business</p>
                 </div>
                 </div>
                 <div className=" flex justify-center -mt-9">
-                <div className=" bg-yellow-500 rounded-full p-6 ">
+                <div className=" bg-yellow-500 rounded-full p-6 hover:bg-white ">
                 <img className=" h-[70px] w-[70px] " src="https://cdn-icons-png.flaticon.com/128/13271/13271258.png" alt="" />
                 </div>
                 </div>
                 </div>
 
                 <div>
-                <div className=" flex justify-center bg-white">
+                <div className=" flex justify-center bg-white hover:bg-yellow-500">
                 <div className=" border-[1px] h-[200px] w-[250px] p-5 ">
                 <p className=" text-center text-2xl font-semibold universe ">DIGITAL<br></br> MARKETING</p>
                 <p className=" mt-3 text-center text-gray-400">Providing The solution For<br></br> None/It business</p>
                 </div>
                 </div>
                 <div className=" flex justify-center -mt-9">
-                <div className=" bg-yellow-500 rounded-full p-6 ">
+                <div className=" bg-yellow-500 rounded-full p-6 hover:bg-white ">
                 <img className=" h-[70px] w-[70px] " src="https://cdn-icons-png.flaticon.com/128/9743/9743201.png" alt="" />
                 </div>
                 </div>
                 </div>
 
                 <div>
-                <div className=" flex justify-center bg-white">
+                <div className=" flex justify-center bg-white hover:bg-yellow-500">
                 <div className=" border-[1px] h-[200px] w-[250px] p-5 ">
                 <p className=" text-center text-2xl font-semibold universe ">SECURITY<br></br> SYSTEM</p>
                 <p className=" mt-3 text-center text-gray-400">Providing The solution For<br></br> None/It business</p>
                 </div>
                 </div>
                 <div className=" flex justify-center -mt-9">
-                <div className=" bg-yellow-500 rounded-full p-6 ">
+                <div className=" bg-yellow-500 rounded-full p-6 hover:bg-white ">
                 <img className=" h-[70px] w-[70px] " src="https://cdn-icons-png.flaticon.com/128/17871/17871228.png" alt="" />
                 </div>
                 </div>
