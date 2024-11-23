@@ -1,4 +1,5 @@
 import HomeBanner from "./Home file/HomeBanner";
+import InfoCard from "./Home file/InfoCard";
 import Provide from "./Home file/Provide";
 
 const Home = () => {
@@ -9,6 +10,7 @@ const Home = () => {
 
               <HomeBanner></HomeBanner>
               <Provide></Provide>
+              <InfoCard></InfoCard>
             
         </div>
     );
