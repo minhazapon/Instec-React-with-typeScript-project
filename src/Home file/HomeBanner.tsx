@@ -9,7 +9,7 @@ const HomeBanner = () => {
             <div
             className="hero min-h-screen  flex-col md:flex-row lg:flex-row "
             style={{
-              backgroundImage: "url(https://wallpaperaccess.com/full/1892752.jpg)",
+              backgroundImage: "url(https://images7.alphacoders.com/133/1337527.png)",
             }}>
             <div className="hero-overlay bg-opacity-80 "></div>
             <div className="hero-content ">

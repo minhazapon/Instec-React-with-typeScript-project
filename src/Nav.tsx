@@ -1,6 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { CiSearch } from "react-icons/ci";
 import { PiShoppingCartLight } from "react-icons/pi";
+import { LuLogIn } from "react-icons/lu";
 
 
 const Nav = () => {
@@ -60,6 +61,7 @@ const Nav = () => {
                 <p className=" bg-slate-400 h-[60px] w-[1px] "></p>
                 <NavLink to='' ><CiSearch className=" text-white h-[30px] w-[30px] "></CiSearch></NavLink>
                 <NavLink to='' ><PiShoppingCartLight className=" text-white  h-[30px] w-[30px] "></PiShoppingCartLight></NavLink>
+                <NavLink to='' ><LuLogIn className=" text-white  h-[30px] w-[30px] "></LuLogIn></NavLink>
                 </div>
               </div>
             </div>
