@@ -6,9 +6,9 @@ const Service = () => {
 
     return (
         
-        <div  className="  bg-cover p-10"
+        <div  className="  bg-cover bg-no-repeat p-10"
         style={{
-            backgroundImage: "url( https://wallpapercave.com/wp/wp8069985.jpg )",
+            backgroundImage: "url( https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D )",
           }}
         
         >
