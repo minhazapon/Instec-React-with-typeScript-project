@@ -24,6 +24,7 @@ import {
 import Home from './Home';
 import Root from './Root';
 import Contact from './contact file/Contact';
+import ShopMother from './shop file/ShopMother'
 const router = createBrowserRouter([
   {
     path: "/",
@@ -36,6 +37,10 @@ const router = createBrowserRouter([
       {
         path: "/contact",
         element:  <Contact></Contact>  ,
+      },
+      {
+        path: "/shop",
+        element:  <ShopMother></ShopMother>  ,
       },
     ],
   },
