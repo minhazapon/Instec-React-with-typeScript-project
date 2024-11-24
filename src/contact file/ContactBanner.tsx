@@ -16,7 +16,7 @@ const ContactBanner = () => {
               }}>
               <div className="hero-overlay bg-opacity-60"></div>
               <div className="hero-content ">
-                <div className="">
+                <div className="  ">
                   <h1 className="mb-5 text-5xl font-bold universe text-white ">Contact</h1>
                   <p className="mb-5 text-white ">
                   “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
