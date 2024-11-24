@@ -10,10 +10,10 @@ const Footer = () => {
 
 
     return (
-        <div className="  p-10"
+        <div className="  p-10 bg-no-repeat bg-cover"
         
         style={{
-            backgroundImage: "url(https://img.freepik.com/premium-photo/visionary-programming-coding-future-software_31965-23953.jpg?w=826)",
+            backgroundImage: "url(https://preview.redd.it/wmf4pf98d4l61.png?auto=webp&s=37e925607b22489b26b0cbe0ab844b7af1692946)",
           }}
         
         >

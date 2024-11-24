@@ -1,6 +1,8 @@
 import HomeBanner from "./Home file/HomeBanner";
 import InfoCard from "./Home file/InfoCard";
+import Memberz from "./Home file/Memberz";
 import Provide from "./Home file/Provide";
+import Service from "./Home file/Service";
 import Technology from "./Home file/Technology";
 
 const Home = () => {
@@ -13,6 +15,8 @@ const Home = () => {
               <Provide></Provide>
               <InfoCard></InfoCard>
               <Technology></Technology>
+              <Memberz></Memberz>
+              <Service></Service>
             
         </div>
     );
