@@ -1,0 +1,53 @@
+[
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/1.jpg",
+   "title":"Headphone",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/2.jpg",
+   "title":"Lagage",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/3.jpg",
+   "title":"Watch",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/4.jpg",
+   "title":"Headset",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/5.jpg",
+   "title":"Battery",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/6.jpg",
+   "title":"Charger",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/7.jpg",
+   "title":"USB Cable",
+   "price":"$50"
+ 
+},
+{
+   "image":"https://html.kodesolution.com/2024/instec-php/images/resource/products/8.jpg",
+   "title":"SD Card",
+   "price":"$50"
+ 
+}
+
+
+
+]
