@@ -8,14 +8,14 @@ const Service = () => {
         
         <div  className="  bg-cover bg-no-repeat p-10"
         style={{
-            backgroundImage: "url( https://plus.unsplash.com/premium_photo-1661882403999-46081e67c401?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D )",
+            backgroundImage: "url( https://images8.alphacoders.com/132/1325725.png )",
           }}
         
         >
 
            <div className=" mt-20 mb-10 ml-24 mr-24 ">
            
-           <div className=" flex-col md:flex-row lg:flex-row flex justify-center items-center gap-10 ">
+           <div className=" flex-col md:flex-row lg:flex-row flex justify-center items-center gap-5 ">
            
            
            <div>
@@ -27,36 +27,37 @@ const Service = () => {
            
            
            <div className=" flex justify-center ">
-           <div className=" grid sm:grid-cols-1  md:grid-cols-2 lg:grid-cols-3  gap-3 ">
+           <div className=" grid sm:grid-cols-1  md:grid-cols-2 lg:grid-cols-3  gap-12 ">
                 
-                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-fit p-11">
-                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1231/1231223.png" alt="" />
+                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-[200px] p-11">
+                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/3059/3059997.png" alt="" />
                    <p className=" text-xl text-white ">Website</p>
                 </div>
            
-                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-fit p-11">
-                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1231/1231223.png" alt="" />
-                   <p className=" text-xl text-white ">Website</p>
+                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-[200px]   p-11">
+                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/270/270780.png" alt="" />
+                   <p className=" text-xl text-white ">Android
+                   </p>
                 </div>
            
-                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-fit p-11">
-                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1231/1231223.png" alt="" />
-                   <p className=" text-xl text-white ">Website</p>
+                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-[200px]   p-11">
+                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/3595/3595022.png" alt="" />
+                   <p className=" text-xl text-white ">Web app</p>
                 </div>
            
-                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-fit p-11">
-                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1231/1231223.png" alt="" />
-                   <p className=" text-xl text-white ">Website</p>
+                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-[200px]   p-11">
+                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/2779/2779775.png" alt="" />
+                   <p className=" text-xl text-white ">Designing</p>
                 </div>
            
-                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-fit p-11">
-                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1231/1231223.png" alt="" />
-                   <p className=" text-xl text-white ">Website</p>
+                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-[200px]   p-11">
+                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1087/1087840.png" alt="" />
+                   <p className=" text-xl text-white ">techno</p>
                 </div>
            
-                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-fit p-11">
-                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/1231/1231223.png" alt="" />
-                   <p className=" text-xl text-white ">Website</p>
+                <div className=" hover:bg-yellow-400 flex items-center gap-5 border-[1px] h-[70px] w-[200px]   p-11">
+                   <img className=" h-[40px] " src="https://cdn-icons-png.flaticon.com/128/993/993723.png" alt="" />
+                   <p className=" text-xl text-white ">Solutions</p>
                 </div>
            
            
