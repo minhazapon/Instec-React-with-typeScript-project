@@ -1,3 +1,4 @@
+import Check from "./Home file/Check";
 import HomeBanner from "./Home file/HomeBanner";
 import InfoCard from "./Home file/InfoCard";
 import Memberz from "./Home file/Memberz";
@@ -19,6 +20,7 @@ const Home = () => {
               <Memberz></Memberz>
               <Service></Service>
               <PricePlan></PricePlan>
+              <Check></Check>
             
         </div>
     );

@@ -18,7 +18,7 @@ const PricePlan = () => {
 
                
 
-                 <div className=" flex justify-center items-center gap-10 mt-10  ">
+                 <div className=" flex-col sm:col-span-1 md:row-span-2 lg:flex-row flex justify-center items-center gap-10 mt-10  ">
 
 
                  <div className=" border-[1px] w-fit p-14   "
